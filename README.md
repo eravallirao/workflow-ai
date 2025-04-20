@@ -10,10 +10,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-ai-productivity-dashboard/
-├── app.py
-├── chat_session.log
-├── insights_summary.txt
-├── Pull_Request_Data.csv
-├── requirements.txt
-└── README.md
