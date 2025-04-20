@@ -2,6 +2,7 @@
 
 # Create environment (optional)
 conda create -n pr-insights python=3.10 -y
+
 conda activate pr-insights
 
 # Install dependencies
